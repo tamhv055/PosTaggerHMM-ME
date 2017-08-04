@@ -1,3 +1,6 @@
+#  example: python calculateAccuracy.py  result.txt testData2.txt
+
+
 import nltk
 import sys
 import ast
